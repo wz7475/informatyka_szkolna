@@ -1,0 +1,3 @@
+1) wczytaj napis z klawiatury i wypisz go od tyłu
+2) wczytaj plik i przepisz do pliku "wyniki.txt" w przypadku 2 litery i przedostatniej z liera 'B'
+3) pole powierchni pod wykresem funckji 2x*x - 3*x  + 2 w przedziale <2, 6>
